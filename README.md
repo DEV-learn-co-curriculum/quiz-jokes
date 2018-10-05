@@ -1,6 +1,10 @@
-# Joke Quiz
+# Jokes Quiz
+
+This is a quiz about jokes.
 
 ???
+
+# Jokes Quiz
 
 ?: What diet did the ghost developer go on?
 
@@ -29,3 +33,5 @@
 ## Resources
 
 - [Wes Bos Dad Jokes](https://github.com/wesbos/dad-jokes)
+
+???
