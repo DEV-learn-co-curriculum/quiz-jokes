@@ -1,8 +1,6 @@
-# REST Quiz
+# Joke Quiz
 
 ???
-
-# Joke Quiz
 
 ?: What diet did the ghost developer go on?
 
